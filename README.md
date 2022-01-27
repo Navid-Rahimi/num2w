@@ -1,4 +1,5 @@
 # num2w
 Self-made project
-Converts numbers to words
-e.g. 17 --> seventeen
+
+The program Converts numbers to words
+For example: 17 --> seventeen
